@@ -46,29 +46,29 @@ body {
     padding: 24px 0;
 }
 
-.espécies{
+.especies{
     padding: 24px 0;
 }
-.espécies-imagem{
+.especies-imagem{
     width: 120px;
 }
 
-.espécies-icone{
+.especies-icone{
     width: 24px;
     padding: 4px 8px;
 }
 
-.espécies-div{
+.especies-div{
     text-align: center;
     padding: 16px 0;
 }
 
-.espécies-titulo{
+.especies-titulo{
     text-align: center;
     padding: 50px 0;
 }
 
-.espécies-todos{
+.especies-todos{
     display: grid;
     grid-template-columns: 20% 20% 20% 20% 20%;
 }
